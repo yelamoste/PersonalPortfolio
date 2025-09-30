@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --font-oswald: "Oswald", sans-serif;
+  --font-bebas: "Bebas Neue", sans-serif;
+  --font-alan: "Alan Sans", sans-serif;
+}
